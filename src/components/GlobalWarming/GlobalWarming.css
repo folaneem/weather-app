@@ -1,0 +1,42 @@
+.global_warming {
+    height: 100%;
+    padding: 40px 80px;
+    display: flex;
+}
+
+.global_warming h1 {
+    width: 90%;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 55px;
+    color: #18221E;
+
+}
+
+.global_warming p {
+    width: 100%;
+    padding-right: 20px;
+    padding-top: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.warming_text {
+    padding: 140px 0 30px 20px;
+    width: 100%;
+
+}
+
+.global_warming button {
+    margin-top: 20px;
+    height: 45px;
+    width: 155px;
+    background-color: #27737D;
+    border: 0;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 15px;
+}

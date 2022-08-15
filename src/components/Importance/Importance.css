@@ -1,0 +1,67 @@
+.importance{
+    padding: 100px 80px;
+    display: flex;
+    height: 100%;
+}
+
+.importance h1{
+    width: 90%;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 55px;
+    color: #18221E;
+
+}
+.importance p{
+    width: 100%;
+    padding-right: 20px;
+    padding-top: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.importance_text{
+    padding: 140px 0 30px 20px;
+    width: 100%;
+
+}
+.importance button{
+    margin-top: 20px;
+    height: 45px;
+    width: 155px;
+    background-color: #27737D;
+    border: 0;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 15px;
+}
+/*@media only screen and (min-width: 1024px) {*/
+/*    .importance h1 {*/
+/*        width: 100%;*/
+/*        font-size: 38px;*/
+/*        line-height: 60px;*/
+/*        padding-right: 20px;*/
+/*    }*/
+/*    .importance p{*/
+/*        line-height: 35px;*/
+/*        width: 100%;*/
+/*    }*/
+
+/*}*/
+/*@media only screen and(max-width: 1023px) {*/
+/*    .importance h1 {*/
+/*        width: 100%;*/
+/*        color: #27737D;*/
+/*        font-size: 38px;*/
+
+/*        line-height: 60px;*/
+/*        padding-right: 20px;*/
+/*    }*/
+/*    .importance p{*/
+/*        line-height: 35px;*/
+/*        width: 100%;*/
+/*    }*/
+/*}*/
+

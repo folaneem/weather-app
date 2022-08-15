@@ -1,0 +1,69 @@
+.navbar {
+    padding: 10px 80px;
+    position: relative;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+nav {
+    position: relative;
+    display: flex;
+}
+
+.title_container {
+    padding-top: 20px;
+    display: flex;
+
+
+}
+
+.navbar-light .navbar-brand {
+    color: #27737D;
+    position: relative;
+    font-style: normal;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: 'Yatra One', cursive;
+}
+
+.cloud-image {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+
+nav ul {
+    position: relative;
+    margin: auto;
+    display: flex;
+    right: 70px;
+
+}
+
+nav ul li {
+    margin-left: 100px;
+    list-style: none;
+}
+
+nav ul li a {
+    font-size: 15px;
+    color: #18221E;
+    text-decoration: none;
+}
+
+.navbar-toggler {
+    width: 70px;
+}
+
+nav button {
+    height: 45px;
+    width: 155px;
+    background-color: #27737D;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    outline: none;
+    font-size: 15px;
+}
